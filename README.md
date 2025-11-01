@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey, I'm Keerthi
 
-<!--
-**keerthivddv/keerthivddv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things that feel clean, thoughtful, and purposeful.  
+I enjoy learning, experimenting, and improving little by little — at my own pace.
 
-Here are some ideas to get you started:
+### 💻 Tech I Use
+- *Languages:* Python · C · SQL  
+- *Web:* HTML · CSS · JavaScript · Django  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎧 Outside of Code
+Singing · Learning languages · Strategy games
+
+---
+
+> Growing at my own pace. Building with purpose. Learning without stopping. 🌙
+
+---
+
+### 📦 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivddv&layout=compact&hide_border=true" />
+</p>
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthivddv&style=flat&color=8A8F9E" alt="Profile views" />
+</p>
