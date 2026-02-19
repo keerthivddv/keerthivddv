@@ -16,12 +16,6 @@ Singing · Learning languages · Strategy games
 
 ---
 
-### 📦 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivddv&layout=compact&hide_border=true" />
-</p>
-
 ### 👀 Profile Visitors
 
 <p align="center">
