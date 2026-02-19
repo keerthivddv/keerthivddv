@@ -18,6 +18,6 @@ Singing · Learning languages · Strategy games
 
 ### 👀 Profile Visitors
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=keerthivddv&style=flat&color=8A8F9E" alt="Profile views" />
 </p>
